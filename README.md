@@ -1,7 +1,6 @@
 # Olá, eu sou a Renata! 👋
 ### Seja bem-vindo(a) ao meu perfil do Github 😄 
 
-<br>
 
 #### **Sobre mim:**
 
