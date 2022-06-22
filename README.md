@@ -1,14 +1,14 @@
 # Olá, eu sou a Renata! 👋
-## Seja bem-vindo(a) ao meu perfil do Github 😄 
+### Seja bem-vindo(a) ao meu perfil do Github 😄 
 
 <br>
 
-### __Sobre mim:__
+#### **Sobre mim:**
 
-- #### 🌱 Em transição de carreira
-- #### 🎓 Cursando técnologo em Análise e Desenvolvimento de Sistemas pela UNISINOS
-- #### 💸 Experiência profissional em Contabilidade
-- #### 👩‍💻 Participando do Bootcamp Santander FullStack Developer - plataforma DIO
+- ###### 🌱 Em transição de carreira
+- ###### 🎓 Cursando técnologo em Análise e Desenvolvimento de Sistemas pela UNISINOS
+- ###### 💸 Experiência profissional em Contabilidade
+- ###### 👩‍💻 Participando do Bootcamp Santander FullStack Developer - plataforma DIO
 
 #
 
