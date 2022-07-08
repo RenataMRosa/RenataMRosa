@@ -7,7 +7,7 @@
 - ###### 🌱 Em transição de carreira
 - ###### 🎓 Cursando Análise e Desenvolvimento de Sistemas na [Universidade do Vale do Rio dos Sinos-Unisinos](https://www.unisinos.br/)
 - ###### 💰 Experiência profissional em Contabilidade
-- ###### 👩‍💻 Participando do Bootcamp Santander FullStack Developer pela plataforma da [Digital Innovation One](https://web.dio.me/track/33c858ab-35fb-4170-9193-a9eef8c2ba25)
+- ###### 👩‍💻 Participando do Bootcamp Santander FullStack Developer e Code Girls pela plataforma da [Digital Innovation One](https://web.dio.me/track/33c858ab-35fb-4170-9193-a9eef8c2ba25)
 
 <br>
 <br>
