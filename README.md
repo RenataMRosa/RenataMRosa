@@ -5,8 +5,9 @@
 #### **Sobre mim:**
 
 - ###### 🌱 Em transição de carreira
-- ###### 🎓 Cursando Análise e Desenvolvimento de Sistemas na [Universidade do Vale do Rio dos Sinos-Unisinos](https://www.unisinos.br/)
 - ###### 💰 Experiência profissional em Contabilidade
+- ###### 🎓 Cursando Análise e Desenvolvimento de Sistemas na [Universidade do Vale do Rio dos Sinos-Unisinos](https://www.unisinos.br/)
+
 
 <br>
 <br>
